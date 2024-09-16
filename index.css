@@ -14,7 +14,7 @@ body{
 }
 .box{
     width: calc(50vw - 100px);
-    height: 280px;
+    height: 240px;
     background-color:rgb(164, 49, 199);
     box-shadow: 10px 10px 18px rgb(221, 155, 218);
     display: flex;
@@ -87,7 +87,7 @@ h2{
 @media screen and (max-width:860px){
     .box{
         width: 80vw;
-        height: 220px;
+        height: 240px;
     }
     .con{
         font-size: 1.6rem;
